@@ -20,11 +20,11 @@ async def _(event):
     if input_str == "gay":
         await event.edit(input_str)
         animation_chars = [
-            "HI USER",
-            "HI USER , WAIT",
-            "HI USER , WAIT ARE YOU....",
-            "HI USER , WAIT ARE YOU UMH...",
-            "HI USRR , WAIT ARE YOU A GAY??😬",
+            "HI",
+            "WAIT",
+            "WAIT ARE YOU....",
+            "WAIT ARE YOU UMH...",
+            "HI , WAIT ARE YOU A GAY??😬",
         ]
 
         for i in animation_ttl:
